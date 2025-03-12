@@ -1,22 +1,22 @@
 import type { DateConfig, FeedConfig, FooterConfig, HeadConfig, HeaderConfig, ThemeConfig } from '$lib/types/general'
 
 export const theme: ThemeConfig = [
-  {
-    name: 'cmyk',
-    text: '🖨 Light',
-  },
-  {
-    name: 'dracula',
-    text: '🧛 Dark',
-  },
+  // {
+  //   name: 'cmyk',
+  //   text: '🖨 Light',
+  // },
+  // {
+  //   name: 'dracula',
+  //   text: '🧛 Dark',
+  // },
 //  {
 //    name: 'valentine',
 //    text: '🌸 Valentine',
 //  },
-//  {
-//    name: 'aqua',
-//    text: '💦 Aqua',
-//  },
+    {
+      name: 'aqua',
+      text: '💦 Aqua',
+    }
 //  {
 //    name: 'synthwave',
 //    text: '🌃 Synthwave',
@@ -25,14 +25,14 @@ export const theme: ThemeConfig = [
 //    name: 'night',
 //    text: '🌃 Night',
 //  },
-  {
-    name: 'lofi',
-    text: '🎶 Lo-Fi',
-  },
-  {
-    name: 'retro',
-    text: '🌇 Retro',
-  },
+  // {
+  //   name: 'lofi',
+  //   text: '🎶 Lo-Fi',
+  // },
+  // {
+  //   name: 'retro',
+  //   text: '🌇 Retro',
+  // },
 ]
 
 export const head: HeadConfig = {}
