@@ -1,6 +1,6 @@
 {
   "background_color": "#3D4451",
-  "description": "A personal blog just for fun",
+  "description": "A personal website to archive my notes",
   "display": "standalone",
   "icons": [
     {
@@ -30,10 +30,10 @@
   ],
   "id": "https://dungxibo123.github.io/",
   "lang": "en-US",
-  "name": "Vo Tien Dung |",
+  "name": "Tran Hoang Khiem |",
   "orientation": "portrait",
   "scope": "/",
-  "short_name": "Vo Tien Dung |",
+  "short_name": "Tran Hoang Khiem |",
   "start_url": "/",
   "theme_color": "#3D4451"
 }
