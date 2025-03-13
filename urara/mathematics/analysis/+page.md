@@ -1,6 +1,7 @@
 ---
 title: Analysis I - Chapter 2
 created: 2024-12-16
+image: '/assets/real-analysis.png'
 tags: ['math']
 ---
 
