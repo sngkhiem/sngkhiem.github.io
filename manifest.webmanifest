@@ -5,30 +5,30 @@
   "icons": [
     {
       "sizes": "192x192",
-      "src": "https://dungxibo123.github.io/assets/any@192.png",
+      "src": "https://sngkhiem.github.io/assets/any@192.png",
       "type": "image/png",
       "purpose": "any"
     },
     {
       "sizes": "512x512",
-      "src": "https://dungxibo123.github.io/assets/any@512.png",
+      "src": "https://sngkhiem.github.io/assets/any@512.png",
       "type": "image/png",
       "purpose": "any"
     },
     {
       "sizes": "192x192",
-      "src": "https://dungxibo123.github.io/assets/maskable@192.png",
+      "src": "https://sngkhiem.github.io/assets/maskable@192.png",
       "type": "image/png",
       "purpose": "maskable"
     },
     {
       "sizes": "512x512",
-      "src": "https://dungxibo123.github.io/assets/maskable@512.png",
+      "src": "https://sngkhiem.github.io/assets/maskable@512.png",
       "type": "image/png",
       "purpose": "maskable"
     }
   ],
-  "id": "https://dungxibo123.github.io/",
+  "id": "https://sngkhiem.github.io/",
   "lang": "en-US",
   "name": "Tran Hoang Khiem |",
   "orientation": "portrait",

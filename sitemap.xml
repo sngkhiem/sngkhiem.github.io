@@ -7,22 +7,22 @@
     xmlns:image="https://www.google.com/schemas/sitemap-image/1.1"
     xmlns:video="https://www.google.com/schemas/sitemap-video/1.1">
     <url>
-      <loc>https://dungxibo123.github.io</loc>
+      <loc>https://sngkhiem.github.io</loc>
     </url>
     
         <url>
-            <loc>https://dungxibo123.github.io/mathematics</loc>
-            <lastmod>2025-03-13T05:06:43.945Z</lastmod>
+            <loc>https://sngkhiem.github.io/mathematics</loc>
+            <lastmod>2025-03-13T16:31:24.096Z</lastmod>
             <priority>0.5</priority>
         </url>
         <url>
-            <loc>https://dungxibo123.github.io/mathematics/analysis</loc>
-            <lastmod>2025-03-13T05:06:43.945Z</lastmod>
+            <loc>https://sngkhiem.github.io/mathematics/analysis</loc>
+            <lastmod>2025-03-13T16:31:24.096Z</lastmod>
             <priority>0.5</priority>
         </url>
         <url>
-            <loc>https://dungxibo123.github.io/about-me</loc>
-            <lastmod>2025-03-13T05:06:43.937Z</lastmod>
+            <loc>https://sngkhiem.github.io/about-me</loc>
+            <lastmod>2025-03-13T16:31:24.087Z</lastmod>
             <priority>0.5</priority>
         </url>
   </urlset>
