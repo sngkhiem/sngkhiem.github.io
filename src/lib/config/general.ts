@@ -30,7 +30,7 @@ export const theme: ThemeConfig = [
     text: '🎶 Lo-Fi',
   },
   {
-    name: 'retro',
+    name: 'caramellate',
     text: '🌇 Retro',
   }
 ]
@@ -52,16 +52,6 @@ export const header: HeaderConfig = {
 }
 
 export const footer: FooterConfig = {
-  nav: [
-    {
-      link: '/atom.xml',
-      text: 'Feed',
-    },
-    {
-      link: '/sitemap.xml',
-      text: 'Sitemap',
-    },
-  ],
 }
 
 export const date: DateConfig = {
