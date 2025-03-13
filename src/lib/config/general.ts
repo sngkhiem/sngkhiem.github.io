@@ -2,36 +2,8 @@ import type { DateConfig, FeedConfig, FooterConfig, HeadConfig, HeaderConfig, Th
 
 export const theme: ThemeConfig = [
   {
-    name: 'cmyk',
-    text: '🖨 Light',
-  },
-  {
     name: 'dracula',
     text: '🧛 Dark',
-  },
- {
-   name: 'valentine',
-   text: '🌸 Valentine',
- },
-  {
-    name: 'aqua',
-    text: '💦 Aqua',
-  },
- {
-   name: 'synthwave',
-   text: '🌃 Synthwave',
- },
- {
-   name: 'night',
-   text: '🌃 Night',
- },
-  {
-    name: 'lofi',
-    text: '🎶 Lo-Fi',
-  },
-  {
-    name: 'caramellate',
-    text: '🌇 Retro',
   }
 ]
 
