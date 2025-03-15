@@ -19,7 +19,6 @@ export const header: HeaderConfig = {
   search: {
     colors: true,
     provider: 'google'
-
   }
 }
 
@@ -33,7 +32,7 @@ export const footer: FooterConfig = {
       link: '/sitemap.xml',
       text: 'Sitemap',
     },
-  ],
+  ]
 }
 
 export const date: DateConfig = {
@@ -43,7 +42,7 @@ export const date: DateConfig = {
     month: 'short',
     weekday: 'long',
     year: '2-digit',
-  },
+  }
 }
 
 export const feed: FeedConfig = {}
