@@ -73,5 +73,17 @@ Suppose for sake of contradiction that $a \neq 0$ or $b \neq 0$. If $a \neq 0$ t
 Let $a$ be a *positive number*. Then there exists exactly one *natural number b* such that $b\text{++}=a$.
 
 ### *Proof.*
-We induct on $b$. Firstly, consider the base case $b=0$, and we have $0\text{++}=a$. We know $a$ equals to $1$ and it is not equal to $0$ from Axiom 2.2
+We induct on $b$. Firstly, consider the base case $b=0$, and we have $0\text{++}=a$. We know $a$ equals to $1$ and it is not equal to $0$ from Axiom 2.1.2, and Axiom 2.1.3, so 1 is a positive number by Definition 2.2.7. Now, we assume inductively that $b\text{++}=a$ is a positive number. We need to show that $(b\text{++})\text{++}$ also a positive number. From our hypothesis, we have $(b\text{++})\text{++}=a\text{++}$. Since $a$ is a positive number and not equal to $0$, by Axiom 2.1.3, $a++$ not equal to $0$ too. Thus $a\text{++}$ is a positive number by Definition 2.2.7. This close our induction.
+
+## Definition 2.2.11. (Ordering of the natural numbers).
+Let $n$ and $m$ be *natural number*. We say that $n$ is *greater than or equal to* $m$, and write $n \geq m$ or $m \leq n$, iff we have $n=m+a$ for some *natural number* $a$. We say that $n$ is *strictly greater than* $m$, and write $n>m$ or $m<n$, iff $n \geq m$ and $n \neq m$.
+
+## Proposition 2.2.12. (Basic properties of order for natural numbers).
+Let $a,b,c$ be *natural numbers*. Then:
+(a) *(Order is reflexive)* $a \geq a$.
+(b) *(Order is transitive)* If $a \geq b$ and $b \geq c$, then $a \geq c$. 
+(c) *(Order is anti-symmetric)* If $a \geq b$ and $b \geq a$, then $a=b$.
+(d) *(Addition preserves order)* $a\geq b$ iff $a+c \geq b+c$.
+(e) $a<b$ iff $a++ \leq b$ 
+(f) $a<b$ iff $b=a+d$ for some *positive number* $d$.
 
